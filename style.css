@@ -75,6 +75,10 @@ div.jumbotron {
   margin-bottom: 10px;
 }
 
+.questions p {
+  margin-top: 30px;
+}
+
 footer{
   border-top: 1px solid #ccc;
   margin-top: 80px;
