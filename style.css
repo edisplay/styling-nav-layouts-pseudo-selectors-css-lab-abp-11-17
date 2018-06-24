@@ -79,7 +79,7 @@ div.jumbotron {
   margin-top: 30px;
 }
 
-a.btn {
+.questions a.btn {
   border-radius: 5px;
   color: #fff;
   background-color: #007bff;
@@ -87,6 +87,10 @@ a.btn {
   text-decoration: none;
   padding: 18px;
   font-size: 20px;
+}
+
+.questions a.btn:hover {
+  
 }
 
 footer{
